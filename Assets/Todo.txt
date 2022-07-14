@@ -1,0 +1,2 @@
+- Add two sides to the console, one for text input and stats, the other for story beats and descriptions
+- Add deeper descriptions to enemy actions, like a description for completing it which changes depending on how the action goes

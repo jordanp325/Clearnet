@@ -1,0 +1,4 @@
+Dear Oliver,
+Repair_OS is starting to become annoying. At multiple points this week, I've tried connecting to the net with no success because your process is binding the network socket.
+I have important work to do, can you please keep your process from running 24/7? Thanks.
+At this rate, it's going to become a memory leak.

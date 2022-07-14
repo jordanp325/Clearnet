@@ -1,0 +1,4 @@
+Note for chris: need to complete user documentation -Oliver
+Did you tell Chris? It's been two weeks and Chris hasn't touched the OS folder -Luke
+It's his job to know what's going on, not mine -Oliver
+Unfortunately I have investors coming by this week and I need to prepare presentations for each of them. I won't have time to work on user documentation, I'm entrusting that to Luke. Next time Oliver, you could just give me a call. -Chris

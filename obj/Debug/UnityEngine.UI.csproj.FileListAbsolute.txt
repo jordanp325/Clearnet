@@ -1,0 +1,2 @@
+C:\Users\jodaw\Desktop\Clearnet\obj\Debug\UnityEngine.UI.csprojAssemblyReference.cache
+C:\Users\jodaw\Desktop\Clearnet\obj\Debug\UnityEngine.UI.csproj.CoreCompileInputs.cache
